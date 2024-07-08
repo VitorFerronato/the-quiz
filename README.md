@@ -1,5 +1,28 @@
-# Vue 3 + Vite
+# The Quiz
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<div style="display:flex">
+  <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+</div>
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 💻 The project 
+   A vueJS quiz that displays your score at the end.
+   
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/VitorFerronato/the-quiz/assets/94748997/64ec5993-e545-4cc8-96c8-df1bb502e43e" alt="image1" style="width: 45%; margin-right: 5%;">
+  <img src="https://github.com/VitorFerronato/the-quiz/assets/94748997/53c994b1-a4ef-470e-9391-3172b02ef5e6" alt="image2" style="width: 45%;">
+</div>
+  
+
+
+
+## 🚀 Technologies
+* Vue
+* Composition API
+
+## 🔧 installation
+```
+npm install
+npm run dev
+```
+
+<p> 👷 We are working on new features! </p> 
